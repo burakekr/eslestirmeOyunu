@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Dersler\C#\Eslestirme_oyunu\Eslestirme_oyunu\bin\Debug\Eslestirme_oyunu.exe.config
+C:\Users\User\Desktop\Dersler\C#\Eslestirme_oyunu\Eslestirme_oyunu\bin\Debug\Eslestirme_oyunu.exe
+C:\Users\User\Desktop\Dersler\C#\Eslestirme_oyunu\Eslestirme_oyunu\bin\Debug\Eslestirme_oyunu.pdb
+C:\Users\User\Desktop\Dersler\C#\Eslestirme_oyunu\Eslestirme_oyunu\obj\Debug\Eslestirme_oyunu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Dersler\C#\Eslestirme_oyunu\Eslestirme_oyunu\obj\Debug\Eslestirme_oyunu.Form1.resources
+C:\Users\User\Desktop\Dersler\C#\Eslestirme_oyunu\Eslestirme_oyunu\obj\Debug\Eslestirme_oyunu.Properties.Resources.resources
+C:\Users\User\Desktop\Dersler\C#\Eslestirme_oyunu\Eslestirme_oyunu\obj\Debug\Eslestirme_oyunu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dersler\C#\Eslestirme_oyunu\Eslestirme_oyunu\obj\Debug\Eslestirme_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dersler\C#\Eslestirme_oyunu\Eslestirme_oyunu\obj\Debug\Eslestirme_oyunu.exe
+C:\Users\User\Desktop\Dersler\C#\Eslestirme_oyunu\Eslestirme_oyunu\obj\Debug\Eslestirme_oyunu.pdb
